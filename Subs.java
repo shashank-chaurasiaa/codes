@@ -5,7 +5,7 @@ class Subs{
         c=a+b;
         d=a*b;
         e=a-b;
-        
+
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
